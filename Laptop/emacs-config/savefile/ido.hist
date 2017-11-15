@@ -1,0 +1,55 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/components/" . "Provider/")
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/" . "components/")
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/" . "app/")
+ ("/Users/danielfleming/Dropbox/Programming/React/" . "kanban-app/")
+ ("/Users/danielfleming/Dropbox/Programming/" . "React/")
+ ("/Users/danielfleming/Dropbox/" . "Programming/")
+ ("/Users/danielfleming/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/components/Provider/"
+ "/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/Provider/"
+ "/Users/danielfleming/.emacs.d/"
+ "/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/components/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.js"
+ "Provider.dev.jsx"
+ "prelude-modules.el"
+ "Notes.jsx"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/components/Provider/" (22856 28450 0 0) "setup.js" "Provider.prod.jsx" "Provider.dev.jsx" "index.js" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/components/" (22856 28622 0 0) "Provider/" "Notes.jsx" "Note.jsx" "Editables.jsx" "App.jsx" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/" (22856 26943 0 0) "webpack.config.js" "tests/" "README.md" "package.json" "node_modules/" "libs/" "karma.conf.js" "app/" ".gitignore" ".git/" ".eslintrc" ".babelrc" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/" (22856 28622 0 0) "main.css" "libs/" "index.jsx" "components/" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/Programming/React/kanban-app/app/Provider/" (22856 28290 0 0) "Provider.prod.jsx" "index.js" "../" "./")
+
+ ("/Users/danielfleming/.emacs.d/" (22849 34328 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.elc" "prelude-modules.el" "personal/" "modules/" "init.elc~" "init.elc" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" ".#prelude-modules.el" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/Programming/React/" (22848 12741 0 0) "Teazea/" "kanban-app/" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/Programming/" (22849 32148 0 0) "twitterbot.py" "SICP/" "Ruby/" "React/" "python/" "proverbs1.txt" "old-emacs-cfg/" "myprojects/" "jscript-lib/" "GLUT-tutorials/" "Early Christian Prayers.pdf" "Andriod Projects/" ".DS_Store" "../" "./")
+
+ ("/Users/danielfleming/Dropbox/" (22794 19577 0 0) "YNAB/" "Shared with Daniel/" "Screen Shot 2017-02-24 at 2.01.53 PM.png" "Public/" "Programming/" "Podcast/" "Other/" "org/" "MP3 Ghost of a King Live/" "Monetary/" "IT/" "Icon
+" "Hobby Lobby.jpg" "Hobby Lobby 3.jpg" "Hobby Lobby 2.jpg" "Dan's Shared Stuff/" "Camera Uploads/" "Bioethics Podcast/" "Apps/" "Academic/" "2016TaxReturn.pdf" ".ynabSettings.yroot" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/danielfleming/" (22849 34047 0 0) "wp.txt" "temp/" "SearchBot_results_for__Head_First_Android_Development.txt.zip" "SearchBot_results_for_ Head First Android Development.txt" "Public/" "Pictures/" "News/" "Music/" "Movies/" "Minecraft-Overviewer/" "Mail/" "Libronix DLS/" "Library/" "homebrew/" "Head_First_Android_Development.pdf" "gsd/" "EFI-DriverUpdater" "eclipse/" "Dropbox/" "Downloads/" "DOS Games/" "Documents/" "Desktop/" "David Weber - [Safehold 05] - How Firm a Foundation (epub).epub" "Calibre Library/" "bin/" "Applications/" "Application Data/" "AndroidStudioProjects/" ".wapi/" ".vnc/" ".vimrc" ".viminfo" ".vim/" ".vbxtqvan" ".vbxtqmse" ".Trash/" ".subversion/" ".ssh/" ".squirrel-sql/" ".sh_history" ".rs/" ".razorsql/" ".python27_compiled/" ".putty/" ".Preference.dtd" ".p2/" ".oracle_jre_usage/" ".npm/" ".notes" ".node-gyp/" ".newsrc~" ".newsrc.eld~" ".newsrc.eld" ".newsrc-dribble~" ".newsrc-dribble" ".newsrc" ".mplayer/" ".Motorola Mobility/" ".mono/" ".matplotlib/" ".MacOSX/" ".local/" ".lesshst" ".kodi/" ".KindleDRMRemoval/" ".JMPreference.xml" ".irssi/" ".iprint/" ".InstallAnywhere/" ".idvgaiTrc" ".idvffknrc" ".gradle/" ".gnus.el~" ".gnus.el" ".gitconfig" ".fonts/" ".fontconfig/" ".expo/" ".erc/" ".emacs~" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".eclipse/" ".dvdcss/" ".DS_Store" ".dropbox/" ".distlib/" ".cups/" ".config/" ".cisco/" ".chunky/" ".CFUserTextEncoding" ".cache/" ".bitpim-files/" ".bashrc" ".bash_sessions/" ".bash_profile.macports-saved_2014-03-10_at_10:45:01" ".bash_profile" ".bash_history" ".babel.json" ".authinfo~" ".authinfo" ".aspell.en.pws" ".aspell.en.prepl" ".anyconnect" ".android/" ".adobe/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
